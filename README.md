@@ -14,10 +14,10 @@ To use the techniques implemented in this repository, you will need to have Pyth
 ### Techniques Implemented
 This repository contains implementations of the following image processing techniques:
 
-* Histogram Equalization: A technique that enhances the contrast of an image by adjusting the image's intensity distribution.
-* Spatial Filtering: A technique that applies a filter mask to an image to remove noise and enhance image features.
-* Bit-plane Slicing: A technique that extracts specific bits of an image's pixel values to reveal hidden image features.
-* Intensity Transformation: A technique that adjusts the intensity levels of an image to enhance its visual appearance.
+* **Histogram Equalization:** A technique that enhances the contrast of an image by adjusting the image's intensity distribution.
+* **Spatial Filtering:** A technique that applies a filter mask to an image to remove noise and enhance image features.
+* **Bit-plane Slicing:** A technique that extracts specific bits of an image's pixel values to reveal hidden image features.
+* **Intensity Transformation:** A technique that adjusts the intensity levels of an image to enhance its visual appearance.
 
 
 ### Contributing
